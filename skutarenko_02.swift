@@ -3,7 +3,7 @@ print(Int.min)
 print(Int8.max)
 print(Int8.min)
 
-let a : Int = 7
+let a : Int = 7 //test comment
 print(a)
 let b : Float = 3.5334
 print(b)
